@@ -1,11 +1,9 @@
 ### Hi guys :)
 
-<p align="center">
- <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)"/>
- <br/>
- <img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaoktk&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)" />
- <br/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaoktk&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
