@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaoktk)](https://github.com/anuraghazra/github-readme-stats)
 
