@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love coding and reading novel!!**
 
-- ✔️ My LinkedIn **[https://www.linkedin.com/in/thu-thảo-trần-141896226/](LinkedIn)**
+- ✔️ My LinkedIn **[LinkedIn](https://www.linkedin.com/in/thu-thảo-trần-141896226/)**
 
  ![](https://komarev.com/ghpvc/?username=thaoktk&color=ff69b4)
  
