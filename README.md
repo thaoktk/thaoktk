@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
 <h3 align="center">A student at UIT - little girl have a big love with Web and Design <3</h3>
 
-- 🌱 I’m currently improving myself on **Typescript, Redux, UI/UX Design**
+- 🌱 I’m currently improving myself on **Typescript, UI/UX Design**
 
 - 📫 How to reach me **thaoktk0508@gmail.com**
 
