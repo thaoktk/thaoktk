@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently improving myself on **Typescript, Redux, UI/UX Design**
 
-- 👨‍💻 All of my projects are available at [https://thaoktk.github.io/portfolio/](https://thaoktk.github.io/portfolio/)
-
 - 📫 How to reach me **thaoktk0508@gmail.com**
 
 - ⚡ Fun fact **I love coding and reading novel!!**
