@@ -12,10 +12,15 @@
  ![](https://komarev.com/ghpvc/?username=thaoktk&color=ff69b4)
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaoktk&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaoktk&show_icons=true&theme=dracula) -->
 
-
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=compact&theme=dracula"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=thaoktk&show_icons=true&theme=dracula"/></td>
+  </tr>
+</table>
 
 
