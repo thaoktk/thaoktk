@@ -12,7 +12,7 @@
  ![](https://komarev.com/ghpvc/?username=thaoktk&color=ff69b4)
  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaoktk&show_icons=true&theme=dracula)
 
