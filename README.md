@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently improving myself on **Typescript, UI/UX Design**
 
-- 📫 How to reach me **tranthuthao.dev@gmail.com**  or **[My Facebook](https://www.facebook.com/thaoktk0508)**
+- 📫 How to reach me **tranthuthao.dev@gmail.com**  or **[My Facebook](https://www.facebook.com/thaoktk.dev)**
 
 - ⚡ Fun fact **I love coding and reading novel!!**
 
