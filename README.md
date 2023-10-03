@@ -11,10 +11,6 @@
 
  ![](https://komarev.com/ghpvc/?username=thaoktk&color=ff69b4)
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaoktk&layout=compact&theme=dracula"/></td>
-  </tr>
-</table>
+
 
 
