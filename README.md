@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
-<h3 align="center">A student at UIT - little girl have a big love with Web and Design <3</h3>
+<h3 align="center">Just a little girl have a big love with Web and Design <3</h3>
 
 - 🌱 I want to be a pro Web Developer and Product Manager <3
 
